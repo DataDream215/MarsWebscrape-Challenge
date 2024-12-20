@@ -1,0 +1,14 @@
+#Module 11 challenge 
+
+Mars data questions
+
+1.)How many months exist on Mars? 12
+
+2.)How many Martian days' worth of data are there? 1867
+
+3.)Which month, on average, has the lowest temperature? The highest? 3rd month is the lowest, -83 degrees ang the 9th month has the highest temperature -69 degrees.
+
+4.)Which month, on average, has the lowest atmospheric pressure? The highest? The 6th month has the highest atomospheric pressure at 745 and the highest is the 9th month 913.
+
+5.)How many terrestrial days exist in a Martian year? A visual estimate within 25% was made.
+ 1750
